@@ -8,7 +8,7 @@ We are analysing Walmart's sales data to identify high-performing branches and p
 ## Project Steps
 
 ### 1.Go to jupyter notebook
-   - **Open jupyter notebook and create a  Walmart Sales data analysis file
+   - Open jupyter notebook and create a  Walmart Sales data analysis file
 
 ### 3. Download Walmart Sales Data
    - **Data Source**: Use the Kaggle API to download the Walmart sales datasets from Kaggle.
