@@ -11,7 +11,7 @@ We are analysing Walmart's sales data to identify high-performing branches and p
    - Open jupyter notebook and create a  Walmart Sales data analysis file
 
 ### 2. Download Walmart Sales Data
-   - **Data Source**: Use the Kaggle API to download the Walmart sales datasets from Kaggle.
+   - **Data Source**: Use the Kaggle  to download the Walmart sales datasets from Kaggle.
    - **Dataset Link**: [Walmart Sales Dataset](https://www.kaggle.com/najir0123/walmart-10k-sales-datasets)
    - **Storage**: Save the data in the `data/` folder for easy reference and access.
 
